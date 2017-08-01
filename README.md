@@ -1,6 +1,6 @@
 # todo-app
 
-> A Vue.js project
+> My first quick foray into VueJS. A simple todo app, created in literally 2 hours.
 
 ## Build Setup
 
